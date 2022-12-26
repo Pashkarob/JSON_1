@@ -1,1 +1,14 @@
-
+{
+  "ID": "1",
+  "Steps": "a- open web site Online store.com b- from the top left, you press "the register" button  b- You enter valid data into the inputs and press the "Send" button" ,
+  "Summary": "The "Send" button does not work",
+  "Actual Result": "Nothing happens",
+  "Expected result": "opening the personal account page",
+  "Project": "online store",
+  "Component": "Registration form",
+  "Version": "Vers:1.0.0 (72)",
+  "Environment": "MacBook Pro (16-inch, 2019), Version: 11.2.3 (20D91)",
+  "Severity": "Critical",
+  "Priority": "Hight (P-1)",
+  "Author": "Mihail Stepashin"
+}
